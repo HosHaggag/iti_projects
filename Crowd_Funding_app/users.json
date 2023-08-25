@@ -1,0 +1,20 @@
+[
+    {
+        "first_name": "hossam",
+        "last_name": "haggag",
+        "email": "haggagdevv@gmail.com",
+        "password": "aaa123456789",
+        "mobile_number": "01010612561",
+        "is_active": false,
+        "projects": []
+    },
+    {
+        "first_name": "Hossam",
+        "last_name": "Haggag",
+        "email": "haggagdev@gmail.com",
+        "password": "aa123245",
+        "mobile_number": "01010612562",
+        "is_active": false,
+        "projects": []
+    }
+]
