@@ -9,9 +9,11 @@
 * The projects and assignments solved depend on the technologies learned in the track and my own research and background as well
 
 
-### Technologies
+### Technologies and Languages
 
 * [Python](https://github.com/HosHaggag/iti_projects/tree/python)
+* [Bash-Script](https://github.com/HosHaggag/DBMS-myhaggag)
+
 
 
 
